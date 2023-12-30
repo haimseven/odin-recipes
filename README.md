@@ -1,1 +1,2 @@
 # odin-recipes
+In this project, I aim to showcase my proficiency by incorporating links and images. Utilizing links, I will seamlessly connect various pages within the same website. For images, I will demonstrate my ability to feature visuals from my library, displaying them effectively on a webpage. Additionally, this project will highlight my adeptness in employing unordered lists and maintaining a clear text hierarchy. 
