@@ -43,8 +43,8 @@
 }
 .bullet-list {
     list-style-type: disc;
-    margin-top: 0;
-    padding-left: 20px;
+    margin-top: 0 auto;
+    padding-left: 10px;
     column-span: all;
 }
 .link {
